@@ -35,7 +35,7 @@ File: Custom Flexslider CSS => For FlexSlider v2.6.1
 .flexslider.carousel .slides li{margin-right:20px;}/* Must be the same as in the javascript */
 
 /* Direction Nav */
-.flex-direction-nav{display:block; position:absolute; bottom:-150px;}
+.flex-direction-nav{display:block; position:absolute; bottom:-20px;}
 .flex-direction-nav li{display:inline-block; margin-right:20px; font-size:16px; text-transform:uppercase;}
 .flex-direction-nav li:last-child{margin-right:0;}
 .flex-direction-nav li::after{margin-left:20px; content:"|";}

@@ -39,7 +39,7 @@ File: Layout CSS
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:200px 0;}
+#pageintro{padding:50px 0;}
 
 #pageintro li{text-align:center;}
 #pageintro li article{display:block; max-width:75%; margin:0 auto; padding-bottom:10px; overflow:hidden;}
@@ -266,14 +266,14 @@ input:focus, textarea:focus, *:required:focus{border-color:#AE1E04;}
 
 
 /* Flexslider */
-.flex-direction-nav a, .flex-direction-nav .flex-disabled:hover{color:#FFFFFF;}
+.flex-direction-nav a, .flex-direction-nav .flex-disabled:hover{color:#584f4f;}
 .flex-direction-nav a:hover{color:#AE1E04;}
-
+.flex-prev, .flex-slider, .flex-next { opacity: 0.7 !important }
 
 /* Rows */
 .row0, .row0 a{}
 .row1{color:#474747; background-color:#FFFFFF;}
-.row2{background-color:rgba(130,22,3,.55);/* #821603 */ border-color:rgba(255,255,255,.2);}
+.row2{background-color:#fb9dc1;/* #821603 */ border-color:rgba(255,255,255,.2);}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#A8A7A6;}
 .row5{color:#A8A7A6; background-color:rgba(0,0,0,.35); border-color:rgba(255,255,255,.2);}
